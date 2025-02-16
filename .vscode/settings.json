@@ -9,6 +9,8 @@
     "nolint",
     "nortest",
     "plotly",
+    "ppcc",
+    "pracma",
     "roxygen",
     "usethis",
     "Vasicek",
