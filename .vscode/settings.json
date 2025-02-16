@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
     "colour",
+    "cran",
     "densfun",
     "displ",
     "ggplot",
@@ -9,6 +10,7 @@
     "nortest",
     "plotly",
     "roxygen",
+    "usethis",
     "Vasicek",
     "vsgoftest"
   ]
